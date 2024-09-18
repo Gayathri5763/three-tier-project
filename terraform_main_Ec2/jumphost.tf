@@ -1,4 +1,3 @@
-
 #Create Jumphost Server(Means Main Server)
 resource "aws_instance" "gayathri" {
     ami = "ami-0e53db6fd757e38c7"
